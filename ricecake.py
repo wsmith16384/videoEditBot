@@ -1,3 +1,7 @@
+To view this glitch, you get "destroy ricecake=1" or "destroy ricecake=100" That's it!
+
+
+
 import random, os
 from subprocess import call
 from pathHelper import *
