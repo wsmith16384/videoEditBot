@@ -82,4 +82,9 @@ To use the bot on Discord, prefix your command with "destroy". An empty command 
 | `repeatuntil`   | `repu`      | Number | 1    | 45           | Repeats video until this time is reached                                                            |
 | `timecode`      | `timc`      | Number | 1    | 4            | Messes with the video's timecode metadata. Only applies to Discord bot.                             |
 | `crash`         | `crsh`      | -      | -    | -            | Makes the video crash. Only applies to Discord bot.                                                 |
-| `autotune`      | `autotune`  | Text   | -    | -            | Autotunes the video
+| `autotune`      | `autotune`  | Text   | -    | -            | Autotunes the video                                                                                 |
+| `rgbsplit`      | `rgbspl`    | Number | 0    | 100          | Makes the video R, G, B are splitting.                                                              |
+| `spin`          | `spin`      | Number | 1    | 10           | Makes the video spins.                                                                              |
+| `swirl`         | `swil`      | Number | -100 | 100          | Makes the video gets dizzy.                                                                         |
+| `x-ray`         | `xray`      | Number | 1    | 100          | Makes the video in above x-ray                                                                      |
+| `magik`         | `magk`      | -      | -    | -            | Makes the content aware scale video.                                                                |
